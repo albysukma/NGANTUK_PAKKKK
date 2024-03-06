@@ -6,6 +6,7 @@
 <?php
 echo"albysukma";
 echo"zapen";
+echo"nim";
 <?
 </body>
   </html>
